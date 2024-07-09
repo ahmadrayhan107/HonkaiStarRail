@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Honkai Star Rail</string>
+    <string name="story">Story</string>
+    <string name="va">VA: %s</string>
+    <string name="fraction">Fraction: %s</string>
+    <string name="back">Back</string>
+    <string name="search_characters">Searching the Characters</string>
+    <string name="about_page">About Page</string>
+    <string name="my_name">Ahmad Rayhan</string>
+    <string name="my_email">ahmadrayhan45732@gmail.com</string>
+</resources>
